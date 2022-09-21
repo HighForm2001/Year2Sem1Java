@@ -1,0 +1,13 @@
+1
+C
+s
+MALE
+A
+A01
+ARCHERY
+Monday
+1
+a
+250.0
+Chris Heria
+
